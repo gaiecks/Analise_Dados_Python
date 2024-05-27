@@ -3,6 +3,7 @@
 ## Descrição do Projeto
 
 Este projeto visa analisar as vendas de um supermercado em três filiais (A, B e C) ao longo de três meses. A análise foi conduzida para entender o comportamento de compras de clientes masculinos e femininos, além de identificar tendências e padrões de vendas por diferentes linhas de produto em cada filial.
+Dataset: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data
 
 ## Estrutura do Projeto
 
