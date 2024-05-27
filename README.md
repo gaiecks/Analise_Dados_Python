@@ -45,19 +45,17 @@ Este projeto visa analisar as vendas de um supermercado em três filiais (A, B e
 
 Esses padrões indicam que há variabilidade na demanda por diferentes linhas de produto entre as filiais, sugerindo a necessidade de estratégias de marketing e estoque personalizadas para cada filial.
 
-## Como Utilizar
-
 1. Clone o repositório para sua máquina local:
     ```sh
-    git clone https://github.com/seu-usuario/analise-de-vendas.git
+    git clone https://github.com/seu-usuario/Analise_Dados_Python.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
-    cd analise-de-vendas
+    cd Analise_Dados_Python
     ```
-3. Abra o notebook `sales_analysis.ipynb` no Google Colab ou em um ambiente Jupyter Notebook:
+3. Abra o notebook `Análise_de_Vendas.ipynb` no Google Colab ou em um ambiente Jupyter Notebook:
     ```sh
-    jupyter notebook sales_analysis.ipynb
+    jupyter notebook Análise_de_Vendas.ipynb
     ```
 4. Execute as células no notebook para reproduzir a análise e visualizar os resultados.
 
