@@ -8,7 +8,7 @@ Dataset: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data
 
 ## Projeto Completo
 
-Acesse o projeto completo através do link (Analise_Dados_Python)_[https://github.com/gaiecks/Analise_Dados_Python/blob/main/An%C3%A1lise_de_Vendas.ipynb]
+Acesse o projeto completo através do link [Analise_Dados_Python](https://github.com/gaiecks/Analise_Dados_Python/blob/main/An%C3%A1lise_de_Vendas.ipynb)
 
 
 ## Estrutura do Projeto
