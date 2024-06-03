@@ -5,10 +5,12 @@
 Este projeto visa realizar uma análise exploratória de dados de vendas de um supermercado em três filiais (A, B e C) ao longo de três meses. A análise foi conduzida para entender o comportamento de compras de clientes masculinos e femininos, além de identificar tendências e padrões de vendas por diferentes linhas de produto em cada filial.
 Dataset: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data
 
+
 ## Estrutura do Projeto
 
 - `Annálise_de_Vendas.ipynb`: O notebook principal que contém todo o código para a análise dos dados.
 - `README.md`: Arquivo de documentação do projeto.
+
 
 ## Objetivos
 
@@ -16,6 +18,7 @@ Dataset: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data
 2. Analisar a correlação entre gênero e total de vendas por mês para cada filial.
 3. Fornecer insights baseados nos padrões de vendas observados.
 4. Demonstrar comandos e ferramentas em Python úteis para análise de dados
+
 
 ## Principais Análises Realizadas
 
@@ -76,14 +79,6 @@ Analisamos a correlação entre o gênero dos clientes e o total de gastos.
 
 Também foi realizada a análise de correlações entre gênero e total de gastos por filial e por mês para entender o comportamento ao longo do perído mais detalhadamente. 
 Os resultados demonstraram que a análise das correlações entre o gênero do cliente e o total de vendas em cada filial revela padrões de compra variados. A relação entre gênero e vendas é leve e variável. Na Filial A, há uma correlação positiva sutil. A Filial B mostra flutuações, com correlações negativas e positivas ao longo dos meses, sugerindo uma dinâmica de compra distinta. Na Filial C, as correlações são positivas nos dois primeiros meses e próxima a zero no terceiro mês. Esses resultados destacam que é crucial considerar diversos fatores além do gênero ao desenvolver estratégias de vendas e marketing, já que o comportamento do consumidor é complexo e multifacetado.
-
-
-## Conclusões e Insights
-- A **Filial C** possui o maior faturamento entre as três filiais.
-- Todas as filiais enfrentaram uma queda no faturamento em fevereiro, mas apenas A e C conseguiram se recuperar.
-- A linha de produto "Food and Beverages" foi a mais forte na Filial C.
-- O público feminino tem um impacto significativo em "Fashion Accessories" e "Food and Beverages".
-- A correlação entre gênero e total de gastos é fraca, indicando que o gênero não é um fator determinante no valor gasto pelos clientes.
 
 
 ## Dependências
