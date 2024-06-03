@@ -6,6 +6,11 @@ Este projeto visa realizar uma análise exploratória de dados de vendas de um s
 Dataset: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data
 
 
+## Projeto Completo
+
+Acesse o projeto completo através do link (Analise_Dados_Python)[https://github.com/gaiecks/Analise_Dados_Python/blob/main/An%C3%A1lise_de_Vendas.ipynb]
+
+
 ## Estrutura do Projeto
 
 - `Annálise_de_Vendas.ipynb`: O notebook principal que contém todo o código para a análise dos dados.
@@ -81,7 +86,12 @@ Também foi realizada a análise de correlações entre gênero e total de gasto
 Os resultados demonstraram que a análise das correlações entre o gênero do cliente e o total de vendas em cada filial revela padrões de compra variados. A relação entre gênero e vendas é leve e variável. Na Filial A, há uma correlação positiva sutil. A Filial B mostra flutuações, com correlações negativas e positivas ao longo dos meses, sugerindo uma dinâmica de compra distinta. Na Filial C, as correlações são positivas nos dois primeiros meses e próxima a zero no terceiro mês. Esses resultados destacam que é crucial considerar diversos fatores além do gênero ao desenvolver estratégias de vendas e marketing, já que o comportamento do consumidor é complexo e multifacetado.
 
 
-## Dependências
+## Conclusão
+
+As 3 filiais apresentam variações de faturamento em linhas de produto ao longo dos meses, mas através da análise dos dados é possível entender tais variações e elaborar diferentes estratégias tanto para recuperar linhas com quedas em vendas quanto para impulsionar as que já são boas. Os insights relacionados ao padrão de consumo das filiais e suas linhas relacionados ao gênero também podem dar um direcionamento nas estratégias, uma vez que foi possível diagnosticar, ainda que sutilmente, leves tendências relacionadas aos padrões de gastos e preferências de consumo.
+
+
+## Dependências do projeto
 
 - Python 3.x
 - Pandas
